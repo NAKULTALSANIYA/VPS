@@ -48,7 +48,7 @@ Install Git
 
 ###  2. Setting Up the MongoDB Database
 
-If you want to setup MongoDB on VPS Follow this Guide: [click here](https://github.com/GreatStackDev/notes/blob/main/MongoDB_Setup_on_VPS.md)
+If you want to setup MongoDB on VPS Follow this Guide:
 
 ### 3. Deploying the Express and Node.js Backend
 
@@ -268,7 +268,3 @@ Verify Auto-Renewal
 ```bash
 certbot renew --dry-run
 ```
-
-If you still need help in deployment:
-
-Contact us on email : greatstackdev@gmail.com
